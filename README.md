@@ -1,5 +1,5 @@
 # HappyDB_NLP
-A GRU based NLP model that can classify the type of happiness.
+A GRU based NLP model that can detect the cause of happiness.
 
 ## Find the data:
 https://megagonlabs.github.io/HappyDB/
